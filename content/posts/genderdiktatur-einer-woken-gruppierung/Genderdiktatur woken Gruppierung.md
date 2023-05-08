@@ -5,10 +5,9 @@ draft = false
 pinned = true
 image = "selifei-leandro-werner.jpg"
 +++
-
 <!--StartFragment-->
 
-![](selifei-leandro-werner.jpg)
+![Selfie nach Interview mit W. Salzmann](selifei-leandro-werner.jpg "Selfie nach Interview mit W. Salzmann")
 
 {{<lead>}}
 
@@ -40,7 +39,7 @@ Im Kaffee "The Black Kaffee", wo Ich mich in wenigen Minuten mit Werner Salzmann
 
 <!--StartFragment-->
 
-Der Genderstern ist ein Schreibzeichen, das in der deutschen Sprache verwendet wird, um alle Geschlechtsidentitäten einzubeziehen. Er wird zwischen den Wortstamm und die Endung gesetzt, zum Beispiel: Lehrer\*innen, Schüler\*innen, Freund\*innen. Die WokeKultur ist eine soziale Bewegung, die sich für Gerechtigkeit und Gleichberechtigung für marginalisierte Gruppen einsetzt. Sie kritisiert Diskriminierung und Unterdrückung aufgrund von Merkmalen wie Hautfarbe, Geschlecht, Sexualität oder Herkunft.
+Der Genderstern ist ein Schreibzeichen, das in der deutschen Sprache verwendet wird, um alle Geschlechtsidentitäten einzubeziehen. Er wird zwischen den Wortstamm und die Endung gesetzt, zum Beispiel: Lehrer\*innen, Schüler\*innen, Freund*innen. Die WokeKultur ist eine soziale Bewegung, die sich für Gerechtigkeit und Gleichberechtigung für marginalisierte Gruppen einsetzt. Sie kritisiert Diskriminierung und Unterdrückung aufgrund von Merkmalen wie Hautfarbe, Geschlecht, Sexualität oder Herkunft.
 
 <!--EndFragment-->
 
