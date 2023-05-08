@@ -3,11 +3,11 @@ title = "Genderdiktatur einer woken Gruppierung"
 date = "2023-05-05"
 draft = false
 pinned = true
-image = "selifei-leandro-werner.jpg"
+image = "https://ibb.co/LQJDBLC"
 +++
 <!--StartFragment-->
 
-![Selfie nach Interview mit W. Salzmann](selifei-leandro-werner.jpg "Selfie nach Interview mit W. Salzmann")
+![Selfie nach Interview mit W. Salzmann](https://ibb.co/LQJDBLC "Selfie nach Interview mit W. Salzmann")
 
 {{<lead>}}
 
