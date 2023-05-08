@@ -4,7 +4,7 @@ date = "2023-03-19"
 draft = false
 pinned = true
 tags = []
-image = "whatsapp-bild-2023-03-18-um-17.46.35.jpg"
+image = "selifei-leandro-werner.jpg"
 description = "Werner Salzmann, SVP Nationalrat aus Bern, kritisiert die \"Gender Diktatur\" einer Minderheit und unterstützt das Genderstern-Verbot. Er glaubt, dass es in der Schweiz bereits Gleichberechtigung gibt, trotz Lohnunterschieden zwischen Teilzeit- und Vollzeitarbeit."
 +++
 
