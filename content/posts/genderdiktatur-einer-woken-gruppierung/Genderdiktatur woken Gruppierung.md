@@ -7,17 +7,13 @@ image = "https://i.ibb.co/dbLsXdQ/IMG-20230318-174051.jpg"
 +++
 <!--StartFragment-->
 
+{{<lead>}}
+
+**Thema der sozialen und sprachlichen Gleichberechtigung eine eher Konservative Meinung. Im Interview zeigt sich aber, dass er bereit ist über die Themen Produktiv und unvoreingenommen zu diskutieren.**
+
+{{<lead>}}
+
 ![Selfie nach Interview mit W. Salzmann](https://i.ibb.co/dbLsXdQ/IMG-20230318-174051.jpg "Selfie nach Interview mit W. Salzmann")
-
-{{<lead>}}
-
-Thema der sozialen und sprachlichen Gleichberechtigung eine eher Konservative Meinung. Im Interview zeigt sich aber, dass er bereit ist über die Themen Produktiv und unvoreingenommen zu diskutieren.
-
-{{<lead>}}
-
-<!--EndFragment-->
-
-<!--StartFragment-->
 
 {{<box>}}
 
