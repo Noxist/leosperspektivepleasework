@@ -4,7 +4,7 @@ date = "2023-03-19"
 draft = false
 pinned = true
 tags = []
-image = "https://i.ibb.co/dbLsXdQ/IMG-20230318-174051.jpg"
+image = "selifei-leandro-werner.jpg"
 description = "Werner Salzmann, SVP Nationalrat aus Bern, kritisiert die \"Gender Diktatur\" einer Minderheit und unterstützt das Genderstern-Verbot. Er glaubt, dass es in der Schweiz bereits Gleichberechtigung gibt, trotz Lohnunterschieden zwischen Teilzeit- und Vollzeitarbeit."
 +++
 <!--\\\\\\\\\\\\\[if gte mso 9]><xml>
