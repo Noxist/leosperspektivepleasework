@@ -13,6 +13,8 @@ image = "selifei-leandro-werner.jpg"
 
 {{<lead>}}
 
+![Selfie nach Interview vor dem Bundeshaus](selifei-leandro-werner.jpg "Selfie nach Interview")
+
 {{<box>}}
 
 Werner Salzmann ist ein Schweizer Politiker der SVP und wurde am 5. November 1962 in Gurtendorf bei Wabern geboren. Er ist Mitglied des Ständerats und vertritt den Kanton Bern. Salzmann hat sich auf kantonaler und eidgenössischer Ebene Anerkennung, Respekt und Hochachtung verschafft und ist ein gefragter Redner bei Grossanlässen und Interviewpartner in den Printmedien, beim Fernsehen und am Radio.
