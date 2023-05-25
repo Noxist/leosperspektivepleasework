@@ -7,19 +7,17 @@ image = "selifei-leandro-werner.jpg"
 +++
 <!--StartFragment-->
 
-{{}}
+{{<lead>}}
 
 **Thema der sozialen und sprachlichen Gleichberechtigung eine eher Konservative Meinung. Im Interview zeigt sich aber, dass er bereit ist über die Themen Produktiv und unvoreingenommen zu diskutieren.**
 
-{{}}
+{{<lead>}}
 
-{{}}
+{{<box>}}
 
 Werner Salzmann ist ein Schweizer Politiker der SVP und wurde am 5. November 1962 in Gurtendorf bei Wabern geboren. Er ist Mitglied des Ständerats und vertritt den Kanton Bern. Salzmann hat sich auf kantonaler und eidgenössischer Ebene Anerkennung, Respekt und Hochachtung verschafft und ist ein gefragter Redner bei Grossanlässen und Interviewpartner in den Printmedien, beim Fernsehen und am Radio.
 
-{{}}
-
-<!--EndFragment-->
+{{<box>}}
 
 <!--StartFragment-->
 
@@ -29,17 +27,13 @@ Im Kaffee "The Black Kaffee", wo Ich mich in wenigen Minuten mit Werner Salzmann
 
 <!--StartFragment-->
 
-{{}}
-
-<!--StartFragment-->
+{{<box>}}
 
 Der Genderstern ist ein Schreibzeichen, das in der deutschen Sprache verwendet wird, um alle Geschlechtsidentitäten einzubeziehen. Er wird zwischen den Wortstamm und die Endung gesetzt, zum Beispiel: Lehrer\*innen, Schüler\*innen, Freund*innen. Die WokeKultur ist eine soziale Bewegung, die sich für Gerechtigkeit und Gleichberechtigung für marginalisierte Gruppen einsetzt. Sie kritisiert Diskriminierung und Unterdrückung aufgrund von Merkmalen wie Hautfarbe, Geschlecht, Sexualität oder Herkunft.
 
-<!--EndFragment-->
+{{<box>}}
 
-{{}}
-
-<!--EndFragment-->
+<!--EndFragment-->>
 
 <!--StartFragment-->
 
