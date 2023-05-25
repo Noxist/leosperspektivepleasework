@@ -68,5 +68,3 @@ Salzmann äussert sich auf die Frage nach der Ablehnung der Einführung des Gend
 Im Verlauf des Gesprächs wird deutlich, dass Werner Salzmann sich als kritische Stimme in der Debatte um Gleichberechtigung und Sprachwandel sieht. Er fordert eine sachliche Auseinandersetzung mit dem Thema und warnt vor einer "Gender Diktatur" durch eine intellektuelle Minderheit, die seiner Meinung nach versucht, ihre Vorstellungen gesetzlich zu verankern und andere Meinungen zu unterdrücken. Salzmann sieht sich als Vertreter eines offenen Diskurses und möchte dazu beitragen, dass auch abweichende Meinungen gehört werden.
 
 <!--EndFragment-->
-
-<!--EndFragment-->
