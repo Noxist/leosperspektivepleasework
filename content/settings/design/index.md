@@ -1,7 +1,6 @@
 +++
 headless = true
-icon = ""
 logo = ""
-image = ""
+image = "https://i.ibb.co/sKWdXsT/Hintergrund.jpg"
 color = "#5d9fbd"
 +++
