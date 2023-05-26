@@ -13,7 +13,7 @@ Thema der sozialen und sprachlichen Gleichberechtigung: Eine eher konservative M
 
 {{<lead>}}
 
-![](selifei-leandro-werner.jpg)
+![Selfie nach Interview vor dem Bundeshaus](selifei-leandro-werner.jpg "Selfie nach Interview")
 
 {{<box>}}
 
