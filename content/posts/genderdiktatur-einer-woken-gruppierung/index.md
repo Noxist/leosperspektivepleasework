@@ -16,16 +16,15 @@ Thema der sozialen und sprachlichen Gleichberechtigung: Eine eher konservative M
 {{<box>}}
 
 Werner Salzmann ist ein Schweizer Politiker der SVP und wurde am 5. November 1962 in Gurtendorf bei Wabern geboren. Er ist Mitglied des Ständerats und vertritt den Kanton Bern. Salzmann hat sich auf kantonaler und eidgenössischer Ebene Anerkennung, Respekt und Hochachtung verschafft und ist ein gefragter Redner bei Großanlässen und Interviewpartner in den Printmedien, beim Fernsehen und am Radio.
+{{</box>}}
 
-{{<box>}}
 
 Im Café "The Black Kaffee", wo ich mich in wenigen Minuten mit Werner Salzmann treffe, erfüllt der Duft von frisch gebrühtem Kaffee die Luft. Herr Salzmann sitzt bereits am Tisch und genießt ein Gipfeli und eine heiße Ovomaltine, während ich mich für das Gespräch vorbereite. Das Café ist nur sporadisch besucht, es ist aber warm und die Einrichtung fördert mit dem klassisch-italienischen Stil die fast schon familiäre Atmosphäre, welche durch die freundliche Bedienung zusätzlich gefördert wird. Nach einer freundlichen Begrüßung und dem Bestellen eines "Kaffi Creme" bereite ich das Mikrofon vor und teste dessen Funktionalität. Für den Anfang habe ich mir fünf Fragen vorbereitet, um die Stille schnell durchbrechen zu können, ohne die Persönlichkeit des Interviews durch neutrale Fragen zu gefährden.
 
 {{<box>}}
-
 Der Genderstern ist ein Schreibzeichen, das in der deutschen Sprache verwendet wird, um alle Geschlechtsidentitäten einzubeziehen. Er wird zwischen den Wortstamm und die Endung gesetzt, zum Beispiel: Lehrer*innen, Schüler*innen, Freund*innen. Die Woke-Kultur ist eine soziale Bewegung, die sich für Gerechtigkeit und Gleichberechtigung für marginalisierte Gruppen einsetzt. Sie kritisiert Diskriminierung und Unterdrückung aufgrund von Merkmalen wie Hautfarbe, Geschlecht, Sexualität oder Herkunft.
+{{</box>}}
 
-{{<box>}}
 
 Auf die Frage, ob er eine Veränderung in seiner politischen Arbeit wegen der polarisierenden Woke-Kultur erlebt, antwortet er mit einem klarenNein. Dies liegt daran, dass er kein Problem hat, kontroverse Meinungen zu vertreten. Zum Beispiel nennt er die Anhänger der Woke-Kultur, ohne mit der Wimper zu zucken, eine intellektuelle Minderheit und bringt mich so zum Schmunzeln.
 
