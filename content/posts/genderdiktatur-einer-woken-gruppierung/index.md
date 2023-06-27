@@ -9,7 +9,7 @@ image = "selifei-leandro-werner.jpg"
 
 {{<lead>}}
 
-Thema der sozialen und sprachlichen Gleichberechtigung: Eine eher konservative Meinung vom Ständerat Mitglied. Im Interview zeigt sich jedoch, dass Werner Salzmann bereit ist, produktiv und unvoreingenommen zu diskutieren.
+**Thema der sozialen und sprachlichen Gleichberechtigung: Eine eher konservative Meinung vom Ständerat Mitglied. Im Interview zeigt sich jedoch, dass Werner Salzmann bereit ist, produktiv und unvoreingenommen zu diskutieren.**
 
 {{<lead>}}
 
@@ -37,8 +37,6 @@ Ein zentrales Thema des Gesprächs ist die Frage, ob der Genderstern in der Spra
 {{<box>}}
 
 Die Bundeskanzlei hat den Genderstern und ähnliche Konstrukte als nicht sprachlich korrekt deklariert. Der Duden gibt eine Fülle an Möglichkeiten, geschlechtergerecht zu formulieren, aber es gibt dafür keine Norm. Die Einklammerung der femininen Endung wird heute nicht mehr oft averwendet, da sie oft abgelehnt wird, weil durch sie der Eindruck entstehen kann, die feminine Form sei zweitrangig Vom amtlichen Regelwerk nicht abgedeckt.{{</box>}}
-
-
 
 > *Ich bin vollständig einverstanden mit der Entscheidung der Bundeskanzlei. Für mich gilt der Duden, und nach dem ist auch in der Schule zu unterrichten und sind die amtlichen Dokumente abzufassen, inklusive Vorstöße etc.*
 
