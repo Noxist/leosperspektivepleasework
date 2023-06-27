@@ -9,7 +9,7 @@ image = "selifei-leandro-werner.jpg"
 
 {{<lead>}}
 
-**Thema der sozialen und sprachlichen Gleichberechtigung: Eine eher konservative Meinung vom Ständerat Mitglied. Im Interview zeigt sich jedoch, dass Werner Salzmann bereit ist, produktiv und unvoreingenommen zu diskutieren.**
+**Thema der sozialen und sprachlichen Gleichberechtigung: Eine eher konservative Meinung vom Ständerat Mitglied Werner Salzmann. Im Interview zeigt sich jedoch, dass er bereit ist unvoreingenommen zu diskutieren.**
 
 {{<lead>}}
 
@@ -32,11 +32,15 @@ Die Woke-Kultur ist eine soziale Bewegung, die sich für Gerechtigkeit und Gleic
 
 Antwortet Salzmann mit abschätzigem Grundton auf meine erste Frage, ob er durch die polarisierende Woke-Kultur Veränderungen in seiner politischen Arbeit feststellt.
 
-Ein zentrales Thema des Gesprächs ist die Frage, ob der Genderstern in der Sprache und insbesondere in Schulen notwendig ist. Dies führt zu einer sehr anspruchsvollen Debatte, weil das Thema sehr umstritten ist und ein Fehler zu einer starken Reaktion der Gegenpartei führen kann. Deshalb komme ich leicht ins Schwitzen.
+Ein zentrales Thema des Gesprächs ist die Frage, ob der Genderstern in der Sprache und insbesondere in Schulen notwendig ist. Dies führt zu einer extrem anspruchsvollen Debatte, weil das Thema sehr umstritten ist und ein Fehler zu einer starken Reaktion der Gegenpartei führen kann. Deshalb komme ich leicht ins Schwitzen.
 
 {{<box>}}
 
-Die Bundeskanzlei hat den Genderstern und ähnliche Konstrukte als nicht sprachlich korrekt deklariert. Der Duden gibt eine Fülle an Möglichkeiten, geschlechtergerecht zu formulieren, aber es gibt dafür keine Norm. Die Einklammerung der femininen Endung wird heute nicht mehr oft averwendet, da sie oft abgelehnt wird, weil durch sie der Eindruck entstehen kann, die feminine Form sei zweitrangig Vom amtlichen Regelwerk nicht abgedeckt.{{</box>}}
+Die Bundeskanzlei hat den Genderstern und ähnliche Konstrukte als nicht sprachlich korrekt deklariert. Es gibt jedoch eine Fülle an Möglichkeiten, geschlechtergerecht zu formulieren, für die es keine Norm gibt. 
+
+Die Einklammerung der femininen Endung wird heute nicht mehr oft verwendet, da sie oft abgelehnt wird. Der Grund dafür ist, dass durch sie der Eindruck entstehen kann, die feminine Form sei zweitrangig und vom amtlichen Dokument nicht vollständig abgedeckt.
+
+{{</box>}}
 
 > *Ich bin vollständig einverstanden mit der Entscheidung der Bundeskanzlei. Für mich gilt der Duden, und nach dem ist auch in der Schule zu unterrichten und sind die amtlichen Dokumente abzufassen, inklusive Vorstöße etc.*
 
