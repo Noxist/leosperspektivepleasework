@@ -30,7 +30,7 @@ Die Woke-Kultur ist eine soziale Bewegung, die sich für Gerechtigkeit und Gleic
 
 > *Ich erlebe keine Veränderung in meiner politischen Arbeit. Ich lasse mir nicht von einer politischen Minderheit meinen Spass am Politwesen rauben.*
 
-Antwortet Salzmann mit abschätzigem Grundton auf die Frage, ob er durch die polarisierende Woke-Kultur Veränderungen in seiner politischen Arbeit feststellt.
+Antwortet Salzmann mit abschätzigem Grundton auf meine erste Frage, ob er durch die polarisierende Woke-Kultur Veränderungen in seiner politischen Arbeit feststellt.
 
 Ein zentrales Thema des Gesprächs ist die Frage, ob der Genderstern in der Sprache und insbesondere in Schulen notwendig ist. Dies führt zu einer sehr anspruchsvollen Debatte, weil das Thema sehr umstritten ist und ein Fehler zu einer starken Reaktion der Gegenpartei führen kann. Deshalb komme ich leicht ins Schwitzen.
 
