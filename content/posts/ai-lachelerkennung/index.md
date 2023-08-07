@@ -4,6 +4,10 @@ date = "2023-07-03"
 draft = false
 pinned = false
 +++
+```
+<iframe width="110" height="200" src="https://www.myinstants.com/instant/scout-alarm-11373/embed/" frameborder="0" scrolling="no"></iframe>
+```
+
 Ich habe eine AI entwickelt in Google Colab programmiert, welche in einem Bild lächelnde Personen erkennt.
 
 Dieser Code kann in Google Colab eingefügt werden und danach ein Bild URL eingefügt werden.
